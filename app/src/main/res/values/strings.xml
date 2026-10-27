@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Seldon Fleet</string>
+    <string name="greeting">Hello %1$s!</string>
+</resources>
